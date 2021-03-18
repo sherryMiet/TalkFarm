@@ -1,0 +1,46 @@
+textarea 
+{
+padding:5px 15px; background:#FFE4E1; border:0;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+width:600px;
+height:300px;
+	
+}
+/*********************************************************************************/
+/* title.html                                                                      */
+/*********************************************************************************/
+#search
+{
+padding:5px 15px; background:		#E0FFFF; border:0;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+height:20px;
+
+}
+#search_btn
+{
+    display: inline-block;
+    
+    background: 	#48D1CC;
+    padding:5px 15px; border:0;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;		
+    
+    font-size: 20px;
+    color: #FFF;
+    float:center;
+  
+}
+h1{
+    color:white;
+}
+
+body{
+    background: #FFFFFF url(title_bg.jpg) repeat;
+    font-family: 微軟正黑體;
+}
+

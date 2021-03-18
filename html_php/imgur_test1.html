@@ -1,0 +1,21 @@
+
+
+// 選取圖片的 input
+<label for="upload">選擇上傳圖檔</label>
+<input id="upload" type="file" accept="image/*" @change="showFile">
+
+// 圖片標題
+<label for="title">圖片名稱</label>
+<input class="form-control" id="title" type="text" v-model="title" @keyup.13="submit" required>
+
+// 圖片描述
+<label for="des">圖片描述</label>
+<input class="form-control" id="des" type="text" v-model="des" @keyup.13="submit" required>
+
+// 上傳按鈕
+<button class="btn btn-primary" type="button" @click="submit">上傳</button>
+
+// 引用js
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+

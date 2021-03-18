@@ -1,0 +1,46 @@
+body{
+    background-color:#F7FFFC;
+    font-family: 微軟正黑體;
+}
+#tit_btn
+{
+    border:0px;
+    background-color:#F7FFFC;
+    color:#8EF0FF;
+    font-size: 30px;
+    padding:10px 10px 10px 0px;
+}
+#btn{
+    display: inline-block;
+   
+    background: 	#48D1CC;
+    padding:5px 15px; border:0;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;		
+
+    font-size: 20px;
+    color: #FFF;
+    float:center;
+}
+.art {
+    overflow:hidden;
+    white-space:nowrap;
+    width:50%;
+    height:20px;
+    text-overflow:ellipsis;
+    color:gray;
+    }
+#con{
+    
+    color:rgb(51, 102, 91);
+    font-size:18px;
+}
+p {
+    overflow:hidden;
+    white-space:nowrap;
+    width:50%;
+    height:20px;
+    text-overflow:ellipsis;
+    color:gray;
+    }

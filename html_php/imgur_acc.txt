@@ -1,0 +1,31 @@
+Client ID:
+088e96e956ee060
+
+Client secret:
+d9061caa9125ea4403d2a8863b58a902b47cc48a
+
+
+https://auguston.github.io/imgur-api-upload-load/
+----------------------------------------------------
+
+Token Name Token Name
+
+Access Token
+0dc4bce7167c2d490dbc663b56b4f71a7b823ac8
+
+Token Type
+bearer
+
+expires_in
+315360000
+
+scope
+
+refresh_token
+c01d877a9dbbb74c7a934e98eb660f92aa837502
+
+account_id
+107407933
+
+account_username
+sherryMiet
